@@ -1,6 +1,11 @@
 # Milk-filter
 Фото и видеофильтр, вдохновлённый визуальной новеллой — Milk inside a bag of milk inside a bag of milk.
 
+Разработчики:
+
+@eratusia - основатель проекта
+@KvazarCheeseburger - основной кодер
+
 Photo and video filter inspired by the visual novel game - Milk inside a bag of milk inside a bag of milk.
 
 
